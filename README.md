@@ -6,10 +6,10 @@
 </h3>
 <h2>Technologies Used</h2>
 <h3>
-  - Python ✨
-  - NumPy
-  - pandas
-  - Matplotlib 📈
-  - scikit-learn
-  - TensorFlow (for ImageDataGenerator)
+  - Python ✨<br>
+  - NumPy<br>
+  - pandas<br>
+  - Matplotlib 📈<br>
+  - scikit-learn<br>
+  - TensorFlow (for ImageDataGenerator)<br>
 </h3>
